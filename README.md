@@ -1,8 +1,13 @@
-- 👋 Hi, I’m @albinvinson
-- 👀 I’m interested in Reading books and Watching Films
-- 🌱 I’m currently learning MCA 
-- 💞️ I’m looking to collaborate on new team jobs 
-- 📫 How to reach me albinvinson4@gmail.com
+
+
+🚀 Frontend Developer | React Enthusiast | 
+🎯 Building clean UIs & cloning real-world apps (like Netflix )  
+📚 Always learning — currently exploring Next.js & Flutter
+🔧 Tech Stack: JavaScript | React | Bootstrap   
+💡 I turn coffee ☕ into scalable code 💻  
+
+📬 Let's connect: [LinkedIn](https://www.linkedin.com/albinvinson) | 
+How to reach me albinvinson4@gmail.com
 
 <!---
 albinvinson/albinvinson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
